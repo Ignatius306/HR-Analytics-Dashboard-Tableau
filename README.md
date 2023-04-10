@@ -16,5 +16,5 @@ It is an excel file that contain 39 attributes and 1500 rows of data.
 Using the tableau we create the analytics dashbord.
 
 <p align="center">
-  <img src="https://github.com/Ignatius306/HR-Analytics-Dashboard/blob/main/Images/tab.png" width="900"><br>Fig:Data set
+  <img src="https://github.com/Ignatius306/HR-Analytics-Dashboard/blob/main/Images/tab.png" width="900"><br>Fig:Tableau Sample
 </p>
